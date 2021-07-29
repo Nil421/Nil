@@ -247,7 +247,7 @@ http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (SD)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10139
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (Bdix)
+#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (BDIX)
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (Global)
 http://103.157.237.18:8000/play/335
