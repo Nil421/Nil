@@ -1849,3 +1849,235 @@ http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/Nql47RQ.png",&xplore
 http://103.157.237.18:8000/play/331
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x15351" group-title="Airtel",Somoy News
+http://103.157.237.18:8000/play/117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x15351" group-title="Airtel",Independent TV
+http://103.157.237.18:8000/play/118
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="BD | MAASRANGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Airtel",MAASRANGA HD
+http://103.157.237.18:8000/play/119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x15351" group-title="",Channel 9
+http://103.157.237.18:8000/play/120
+http://103.157.237.18:8000/play/122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png" group-title="Airtel",GAZI TV
+http://103.157.237.18:8000/play/128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg" group-title="Airtel",DURONTO TV
+http://103.157.237.18:8000/play/132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Airtel",STAR JALSA SD
+http://103.157.237.18:8000/play/201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Airtel",STAR JALSA HD
+http://103.157.237.18:8000/play/202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="Airtel",STAR MOVIES SD
+http://103.157.237.18:8000/play/203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Airtel",ZEE BANGLA SD
+http://103.157.237.18:8000/play/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Airtel",ZEE BANGLA HD
+http://103.157.237.18:8000/play/206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" group-title="Airtel",ZEE BANGLA CINEMA
+http://103.157.237.18:8000/play/207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyAATH.in.png" group-title="Airtel",SONY AATH
+http://103.157.237.18:8000/play/210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/Bangla-Talkies.png" group-title="Airtel",AIRTEL BANGLA HITZ
+http://103.157.237.18:8000/play/211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="Airtel",COLORS BANGLA HD
+http://103.157.237.18:8000/play/213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg" group-title="Airtel",COLORS BANGLA CINEMA
+http://103.157.237.18:8000/play/214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Airtel", SUN BANGLA
+http://103.157.237.18:8000/play/215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Airtel", STAR BHARAT SD
+http://103.157.237.18:8000/play/303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png" group-title="Airtel", STAR UTSAV SD
+http://103.157.237.18:8000/play/305
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Airtel", STAR GOLD
+http://103.157.237.18:8000/play/307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg" group-title="Airtel", STAR GOLD 2
+http://103.157.237.18:8000/play/309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Airtel", STAR GOLD SELECT
+http://103.157.237.18:8000/play/311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Airtel", STAR GOLD SELECT HD
+http://103.157.237.18:8000/play/312
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.zaintv.net:1122/logo/utvbindas.png" group-title="Airtel",  UTV BINDAAS
+http://103.157.237.18:8000/play/313
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Airtel",  UTV HD
+http://103.157.237.18:8000/play/314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Utv_Action.png" group-title="Airtel",  UTV ACTION
+http://103.157.237.18:8000/play/315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/UTVMovies.in.png" group-title="Airtel",  UTV MOVIES
+http://103.157.237.18:8000/play/316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeTV.in.png" group-title="Airtel", ZEE TV SD
+http://103.157.237.18:8000/play/317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeTV.in.png" group-title="Airtel", ZEE TV HD
+http://103.157.237.18:8000/play/318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ZeeCinema.uk.png" group-title="Airtel", ZEE CINEMA SD
+http://103.157.237.18:8000/play/320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeCinema.in.png" group-title="Airtel", ZEE CINEMA HD
+http://103.157.237.18:8000/play/321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Airtel", ZEE ACTION 
+http://103.157.237.18:8000/play/322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Airtel", ZEE BOLLYWOOD
+http://103.157.237.18:8000/play/323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Airtel", ZEE CLASSIC
+http://103.157.237.18:8000/play/324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Airtel", ZEE ANMOL CINEMA
+http://103.157.237.18:8000/play/325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Miniplex.in.png" group-title="Airtel", MINIPLEX HD
+http://103.157.237.18:8000/play/326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Airtel", &TV HD
+http://103.157.237.18:8000/play/328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Airtel", & PICTURE SD
+http://103.157.237.18:8000/play/329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5gtv.online:2052/logo/xplorehd.png" group-title="Airtel", &XPLORE HD
+http://103.157.237.18:8000/play/331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Airtel", SONY ENTERTAINMENT
+http://103.157.237.18:8000/play/333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Airtel", SONY ENTERTAINMENT HD
+http://103.157.237.18:8000/play/334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Airtel", SONY SAB
+http://103.157.237.18:8000/play/335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Airtel", SONY MAX
+http://103.157.237.18:8000/play/337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Airtel", SONY MAX HD
+http://103.157.237.18:8000/play/338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg" group-title="Airtel", SONY MAX 2
+http://103.157.237.18:8000/play/339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="Airtel", COLORS HD
+http://103.157.237.18:8000/play/342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg" group-title="Airtel", COLORS CINEPLEX BOLLYWOOD
+http://103.157.237.18:8000/play/343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928233543372120_cineplex-hd.png" group-title="", COLORS CINEPLEX HD
+http://103.157.237.18:8000/play/345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png" group-title="Airtel", COLORS RISTHEY
+http://103.157.237.18:8000/play/346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="Airtel",MBC BOLLYWOOD
+http://103.157.237.18:8000/play/347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/mu/CartoonNetwork.mu.png" group-title="",CARTOON NETWORK
+http://103.157.237.18:8000/play/401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Pogo.in.png" group-title="Airtel",POGO
+http://103.157.237.18:8000/play/402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="Airtel",Nickelodeon_Sonic
+http://103.157.237.18:8000/play/403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/03/disney-channel-logo.jpg" group-title="Airtel",DISNEY CHANNEL
+http://103.157.237.18:8000/play/404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_International_HD_logo.png" group-title="Airtel",DISNEY HD INTERNATIONAL CHANNEL
+http://103.157.237.18:8000/play/405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Marvel_HQ_logo.jpg/600px-Marvel_HQ_logo.jpg" group-title="Airtel",MARVEL HQ
+http://103.157.237.18:8000/play/406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Hungama.in.png" group-title="Airtel",HUNGAMA
+http://103.157.237.18:8000/play/407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="Airtel",SONY YAY
+http://103.157.237.18:8000/play/409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Nick.in.png" group-title="Airtel",NICK
+http://103.157.237.18:8000/play/411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Nickelodeon_Junior_TwoThoudand_12.jpg" group-title="Airtel",NICK JR
+http://103.157.237.18:8000/play/412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/nz/Nick.nz.png" group-title="Airtel",NICK HD+
+http://103.157.237.18:8000/play/413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png" group-title="Airtel",DISCOVERY KIDS
+http://103.157.237.18:8000/play/417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Disney_Jr._logo.png/799px-Disney_Jr._logo.png" group-title="Airtel",DISNEY JUNIOR
+http://103.157.237.18:8000/play/418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Disney_Store_2017_%28Stacked%29.svg" group-title="Airtel",DISNEY STORE
+http://103.157.237.18:8000/play/442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gr/NatGeoHD.gr.png" group-title="Airtel",NATIONAL GEOGRAPHIC
+http://103.157.237.18:8000/play/501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gr/NatGeoHD.gr.png" group-title="Airtel",NATIONAL GEOGRAPHIC HD
+http://103.157.237.18:8000/play/502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Airtel",FOX LIFE HD
+http://103.157.237.18:8000/play/504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Zee_Zest.png" group-title="Airtel",ZEE ZEST
+http://103.157.237.18:8000/play/508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/fr/DiscoveryChannel.fr.png" group-title="Airtel",DISCOVERY HD
+http://103.157.237.18:8000/play/509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Discovery_Science_India_2013.png" group-title="Airtel",DISCOVERY SCIENCE
+http://103.157.237.18:8000/play/511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Discovery_Turbo_2009.svg" group-title="Airtel",DISCOVERY TURBO
+http://103.157.237.18:8000/play/512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ID_%28Print%29.svg" group-title="Airtel",INVESTIGATION DISCOVERY
+http://103.157.237.18:8000/play/514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/TLCHD.png" group-title="Airtel",TLC HD
+http://103.157.237.18:8000/play/515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="Airtel",STAR PLUS
+http://103.157.237.18:8000/play/520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.zaintv.net:1122/logo/animalplanet.png" group-title="Airtel",ANIMAL PLANNET 
+http://103.157.237.18:8000/play/525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.zaintv.net:1122/logo/animalplanet.png" group-title="Airtel",ANIMAL PLANNET HD
+http://103.157.237.18:8000/play/526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/Travelxp.in.png" group-title="Airtel",TRAVEL XP
+http://103.157.237.18:8000/play/527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Star_Sports_1_Bangla.png" group-title="Airtel",STAR SPORTS BANGLA
+http://103.157.237.18:8000/play/601
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Airtel",UNKNOWN
+http://103.157.237.18:8000/play/602
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" group-title="Airtel",STAR SPORTS 2
+http://103.157.237.18:8000/play/603
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Airtel",UNKNOWN
+http://103.157.237.18:8000/play/604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" group-title="Airtel",STAR SPORTS 3
+http://103.157.237.18:8000/play/605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Airtel",STAR SPORTS SELECT 2
+http://103.157.237.18:8000/play/610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Airtel",SONY TEN 1
+http://103.157.237.18:8000/play/611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Airtel",SONY TEN 1 HD
+http://103.157.237.18:8000/play/612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Airtel",SONY TEN 2
+http://103.157.237.18:8000/play/613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Airtel",SONY TEN 3
+http://103.157.237.18:8000/play/615
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Airtel",SONY TEN 3 HD
+http://103.157.237.18:8000/play/616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Airtel",SONY SIX
+http://103.157.237.18:8000/play/617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266648_eurosport-hd.jpg" group-title="Airtel",EURO SPORTS
+http://103.157.237.18:8000/play/620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_Sports_First.jpg" group-title="Airtel",STAR SPORTS FIRST HD
+http://103.157.237.18:8000/play/623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_Sports_First.jpg" group-title="Airtel",STAR SPORTS FIRST HD
+http://103.157.237.18:8000/play/628
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" group-title="Airtel",T SPORTS HD
+http://103.157.237.18:8000/play/630
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928287388476717_star-movies-hd.png" group-title="Airtel",STAR MOVIES
+http://103.157.237.18:8000/play/704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg" group-title="Airtel",ZEE CAFE HD
+http://103.157.237.18:8000/play/709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="Airtel",SONY PIX
+http://103.157.237.18:8000/play/710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="Airtel",SONY PIX HD
+http://103.157.237.18:8000/play/711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Airtel",& FLIX HD
+http://103.157.237.18:8000/play/716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Airtel",& PRIVE HD
+http://103.157.237.18:8000/play/718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Colors_Infinity_2018_Logo.png" group-title="Airtel",COLORS INFINITY 
+http://103.157.237.18:8000/play/721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Comedy_Central_2018_%28Stacked%29.svg" group-title="Airtel",COMEDY CENTRAL
+http://103.157.237.18:8000/play/723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="Airtel",MOVIES NOW
+http://103.157.237.18:8000/play/725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="Airtel",MN+ HD
+http://103.157.237.18:8000/play/730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MBC_2_HD_logo.png" group-title="Airtel",MBC 2
+http://103.157.237.18:8000/play/733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/MBC_Max.png" group-title="Airtel",MBC MAX HD
+http://103.157.237.18:8000/play/734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lofrev.net/wp-content/photos/2014/09/A-logo.png" group-title="Airtel",A HD
+http://103.157.237.18:8000/play/735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_HD_2014.svg" group-title="Airtel",HBO
+http://103.157.237.18:8000/play/739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Airtel",HBO HITS
+http://103.157.237.18:8000/play/740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Airtel",HBO SINGNATURE
+http://103.157.237.18:8000/play/741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/275px-Cinemax_new.png" group-title="Airtel",CINEMAX
+http://103.157.237.18:8000/play/742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/MTV-logo-500x333.png" group-title="Airtel", MTV
+http://103.157.237.18:8000/play/801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/in/MTVHDPlus.in.png" group-title="Airtel", MTV HD+
+http://103.157.237.18:8000/play/802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-vh-1-logo.jpg" group-title="Airtel",VH 1
+http://103.157.237.18:8000/play/806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/564x/a0/fd/d4/a0fdd4e80d22703721586f70ff855528.jpg" group-title="Airtel",MADANI TV
+http://103.157.237.18:8000/play/1001
+
